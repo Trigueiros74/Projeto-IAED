@@ -1,0 +1,13 @@
+# Executáveis e objetos
+proj1
+*.o
+*.dSYM/
+
+# Testes públicos, depois de descompactados
+public-tests/
+*.myout
+*.diff
+tests.log
+
+# Sistema
+.DS_Store
