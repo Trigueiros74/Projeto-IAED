@@ -4,7 +4,7 @@
 
 **Sistema de gestão de parques de estacionamento em C**
 
-Projeto 1 de *Introdução aos Algoritmos e Estruturas de Dados* (IAED) — Instituto Superior Técnico, 2023/24
+Projeto de *Introdução aos Algoritmos e Estruturas de Dados* (IAED) — Instituto Superior Técnico, 2023/24
 
 ![C](https://img.shields.io/badge/language-C99-00599C?style=flat-square&logo=c)
 ![Tests](https://img.shields.io/badge/testes%20públicos-18%2F18-brightgreen?style=flat-square)
